@@ -1,2 +1,2 @@
-# blue-didn-t-use-bootstrap
-Link to live website: https://mawoyale.github.io/blue-didn-t-use-bootstrap/
+# CSS-Layout-practice
+Link to live website: https://mawoyale.github.io/CSS-Layout-practice/
